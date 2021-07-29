@@ -1,0 +1,7 @@
+26-07-2021 20:56:00.212 INFO  FILMLAND_LOG [http-nio-8092-exec-10] fetchUserDetails : Services: com.sogeti.filmland.demo.dao.ServiceDetails@1cbb6b9 Successfully fetched all Services
+26-07-2021 20:58:06.659 INFO  FILMLAND_LOG [http-nio-8092-exec-10] saveUser : User Email ID: asdadsa@gmail.com  Successfully registered in the database
+26-07-2021 21:58:52.493 INFO  FILMLAND_LOG [http-nio-8092-exec-7] fetchUserDetails : Services: com.sogeti.filmland.demo.dao.ServiceDetails@2211459 Successfully fetched all Services
+26-07-2021 21:59:08.090 ERROR FILMLAND_LOG [http-nio-8092-exec-8] fetchUserDetails : Services: Unauthorized to access service Not Authorized 
+26-07-2021 21:59:47.479 ERROR FILMLAND_LOG [http-nio-8092-exec-10] fetchUserDetails : Services: Unauthorized to access service Not Authorized 
+26-07-2021 22:13:35.927 INFO  FILMLAND_LOG [http-nio-8092-exec-9] saveUser : User Email ID: thomas@gmail.com  Successfully registered in the database
+26-07-2021 22:14:17.877 INFO  FILMLAND_LOG [http-nio-8092-exec-3] subscribe : Services: thomas Successfully subscribed services 

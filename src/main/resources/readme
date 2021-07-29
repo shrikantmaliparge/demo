@@ -1,0 +1,12 @@
+
+
+This project is to show web application using the postman and
+real project developed in Spring boot using spring initialiser Java 8 Maven.
+
+Build and run the  (com.sogeti.filmland.demo.SogetiFilmLandApplication.java)
+
+As soon as application start up , Open a parallel service hosting Swagger in
+same port(http://localhost:8092/swagger-ui.html#/service-controller) to check the varios service controller.
+You can use postman for CRUD
+
+Database h2
